@@ -1,0 +1,14 @@
+.container{
+  width: 100%;
+  margin: 250rpx 0 0 0;
+  text-align: center;
+}
+
+.container .b{
+  font-size: 80rpx;
+}
+
+.container .h{
+  margin-top: 80rpx;
+  font-size: 100rpx;
+}

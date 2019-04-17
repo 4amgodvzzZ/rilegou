@@ -1,0 +1,13 @@
+<view class="good">
+ <image class="img" src="{{imageUrl}}" background-size="cover"></image>
+ <view class="name">{{title}}</view>
+ <view class='pricecount'>
+  <view class="price">
+    <view class="counterPrice" wx:if="{{counterPrice > retailPrice}}">原价：￥{{counterPrice}}</view>
+    <view class="retailPrice">现价：￥{{retailPrice}}</view>
+  </view>
+    <view class="count">
+    <view class="nowcount">已售：{{saledCount>0?saledCount:0}}份/限量：{{allCount>0?allCount:0}}份</view>
+  </view>
+ </view>
+</view>

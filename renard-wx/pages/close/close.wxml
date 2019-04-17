@@ -1,0 +1,4 @@
+<view class="container">
+  <view class='b'>营业时间为</view>
+  <view class='h'>08:00---22:00</view>
+</view>

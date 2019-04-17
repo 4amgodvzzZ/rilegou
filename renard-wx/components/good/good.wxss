@@ -1,0 +1,75 @@
+.good {
+ height: 480rpx;
+ width: 372rpx;
+ align-content: center;
+}
+
+.good .img {
+ width: 302rpx;
+ border-radius: 20rpx;
+ height: 302rpx;
+ z-index: 1;
+}
+
+.good .name {
+ text-align: center;
+ /* display: block; */
+ width: 372rpx;
+ height: 35rpx;
+ margin-bottom: 14rpx;
+ overflow: hidden;
+ font-size: 28rpx;
+ color: #333;
+}
+
+.pricecount{
+  width: 100%;
+  text-align: center;
+  float: left;
+}
+
+.good .price {
+ /* display: block; */
+ width: 100%;
+ float: left;
+ margin: 10rpx;
+ text-align: center;
+ line-height: 30rpx;
+ font-size: 28rpx;
+ color: #a78845;
+}
+
+.good .counterPrice {
+ text-decoration: line-through;
+ width: 50%;
+ text-align: center;
+ float: left;
+ font-size: 24rpx;
+ color: #999;
+}
+
+.good .retailPrice {
+ float: left;
+ width: 50%;
+ text-align: center;
+ font-size: 24rpx;
+ color: #a78845;
+}
+
+.good .count {
+ /* display: block; */
+ float: left;
+ width: 100%;
+ line-height: 30rpx;
+ font-size: 28rpx;
+ color: #a78845;
+}
+
+.good .nowcount {
+ float: left;
+ font-weight: bold;
+ text-align: center;
+ width: 100%;
+ font-size: 24rpx;
+ color: #ee1a1a;
+}

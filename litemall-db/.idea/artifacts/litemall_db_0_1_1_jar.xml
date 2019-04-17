@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="litemall-db-0.1.1:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="litemall-db.jar">
+      <element id="module-output" name="litemall-db" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "售出订单",
+  "usingComponents": {
+    "zan-capsule": "/components/capsule/index"
+  }
+}
